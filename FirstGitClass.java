@@ -3,4 +3,7 @@ class FirstGitClass {
 		System.out.println("Hello Git");
 	}
 	
+	pivate static void methodA() {
+		System.out.println("Method A");
+	}
 }
