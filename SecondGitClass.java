@@ -3,7 +3,11 @@ class SecondGitClass {
 		System.out.println("Hello Git 2nd time");
 	}
 	
-	pivate static void methodA_2nd() {
+	private static void methodA_2nd() {
 		System.out.println("Method A 2nd");
+	}
+	
+	private void methodB_2nd() {
+		System.out.println("Method B 2nd");
 	}
 }
