@@ -10,4 +10,9 @@ class SecondGitClass {
 	private void methodB_2nd() {
 		System.out.println("Method B 2nd");
 	}
+	
+	private void methodC_2nd() {
+		System.out.println("Method C 2nd");
+		
+	}
 }
