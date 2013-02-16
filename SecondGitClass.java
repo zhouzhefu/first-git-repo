@@ -15,4 +15,9 @@ class SecondGitClass {
 		System.out.println("Method C 2nd");
 		
 	}
+	
+	private void methodD_2nd() {
+		System.out.println("Method D 2nd");
+		//meaningless line
+	}
 }
